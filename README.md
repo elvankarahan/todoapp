@@ -94,5 +94,6 @@ Login will return:
 - H2 Database
 - Swagger
 - Docker
+- JUnit
 - React for Front-End
 
