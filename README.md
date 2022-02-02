@@ -28,6 +28,8 @@ Logs should end like this after run command:
 
 Detailed api documentation will be avalible at http://localhost:8080/v3/api-docs . This link returns a json response so it should be formatted with [Swagger Editor](https://editor.swagger.io/ "Swagger Edito") and this gives a dynamic page.
 
+![asd](https://github.com/elvankarahan/todoapp/blob/master/swagger_image.png "swagger")
+
 ###### Docker Hub
 Pull the image
 
@@ -80,8 +82,8 @@ Login will return:
 
 	```json
 	{
-			"title": "My title",
-			"content": "Content "
+		"title": "My title",
+		"content": "Content "
 	}
 	```
 
